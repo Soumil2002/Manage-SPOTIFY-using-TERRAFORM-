@@ -17,8 +17,8 @@ This project involves using Terraform to create multiple Spotify playlists for d
 
 ## Create a file named .env to store your Spotify application's Client ID and Secret:
 
-SPOTIFY_CLIENT_ID=<your_spotify_client_id>
-SPOTIFY_CLIENT_SECRET=<your_spotify_client_secret>
+```SPOTIFY_CLIENT_ID=<your_spotify_client_id>```
+```SPOTIFY_CLIENT_SECRET=<your_spotify_client_secret>```
 
 
 ## Run the Spotify Auth App and Get the API Key
