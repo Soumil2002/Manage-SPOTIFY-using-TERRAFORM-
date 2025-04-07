@@ -25,7 +25,7 @@ SPOTIFY_CLIENT_SECRET=<your_spotify_client_secret>
 
 Make sure Docker Desktop is running, and start the authorization proxy server:
 
-docker run --rm -it -p 27228:27228 --env-file .env ghcr.io/conradludgate/spotify-auth-proxy
+```docker run --rm -it -p 27228:27228 --env-file .env ghcr.io/conradludgate/spotify-auth-proxy```
 
 <img width="617" alt="image" src="https://github.com/user-attachments/assets/e608e978-ef59-45dc-ad03-b28ebe565f2b" />
 
